@@ -4,6 +4,10 @@ Food Order App with React and Firebase database
 
 In the project directory, you can run:
 
+### `npm install`
+
+Install all required dependencies (this will create a /node_modules folder).
+
 ### `npm start`
 
 Runs the app in the development mode.\
